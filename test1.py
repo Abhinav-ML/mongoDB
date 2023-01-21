@@ -1,6 +1,6 @@
 import pymongo
 
-client = pymongo.MongoClient("mongodb+srv://abhinav5600:abhik5600@cluster0.z5okehm.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://xxxxxxxxxx@cluster0.z5okehm.mongodb.net/?retryWrites=true&w=majority")
 db =client.test
 
 database = client['myinfo']
